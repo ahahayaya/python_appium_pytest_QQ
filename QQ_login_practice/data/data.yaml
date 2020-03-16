@@ -1,0 +1,4 @@
+Logindata:
+  - case1: {'uid':'1126017080','pwd':'xxxx','except_result':'fail'}
+  - case2: {'uid':'1126017080','pwd':'11111','except_result':'fail'}
+  - case2: {'uid':'1126017080','pwd':'2222 ','except_result':'pass'}
